@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.left-side{
+    border: none;
+
+}
+h1{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    
+}
+.first-header{
+    color: #1A374D;
+}
+.second-header{
+    color: #6998AB;
+}
+.header{
+    border-left: 3px solid;
+    border-image: linear-gradient(#6998AB, #1A374D);
+    border-image-slice: 1;
+    
+}
+.first-section{
+    display: flex;
+    margin: 0 auto;
+    border: none;
+    justify-content: space-around;
+    padding: 40px 0px;
+}
+.right-img{
+    width: 400px;
+    border: none;
+}
+.left-side{
+    width: 30%;
+    padding-top: 50px;
+}
+.left-padding{
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.explore-btn{
+    margin: 10px 1px;
+    padding: 10px 30px;
+    background-image: linear-gradient(#6998AB, #406882);
+    border: none;
+    border-radius: 8px;
+}
