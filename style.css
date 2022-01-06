@@ -50,4 +50,132 @@ h1{
     background-image: linear-gradient(#6998AB, #406882);
     border: none;
     border-radius: 8px;
+    color: white;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    margin: 0 auto;
+    padding: 10px 50p[x];
+
+}
+.box-one{
+    border: none;
+    margin: 20px 50px;
+    height: 60%;
+    width: 20%;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #D6E5FA;
+}
+.box-two{
+    border: none;
+    margin: 20px 50px;
+    height: 60%;
+    width: 20%;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #EED7CE;
+
+}
+.box-three{
+    border: none;
+    margin: 20px 50px;
+    height: 60%;
+    width: 20%;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFC4E1;
+
+}
+.mission-img{
+    border: none;
+}
+.mission-img img{
+    width: 200px;
+}
+.mission-part{
+    padding: 20px;
+}
+.my-mission{
+    color: #1A374D;
+    
+}
+.twentytwo{
+    color: #406882;
+    
+
+}
+.second-header{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.second-section{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    
+}
+.third-section{
+    display: flex;
+    margin: 0 auto;
+   
+    justify-content: center;
+    padding: 40px 0px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 40px;
+    
+}
+.third-img{
+    width: 300px;
+    
+}
+.third-right{
+    
+    width: 50%;
+    margin-left: 40px;
+    padding-top: 50px;
+
+}
+.develop-header{
+    color: #1A374D;
+   
+}
+.third-paragraph{
+    padding: 10px 0px;
+}
+.documentation-btn{
+    background-image: linear-gradient(#6998AB, #35858B);
+    padding: 10px 30px;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+.fourth-section{
+    border: none;
+    display: flex;
+    margin: 0 auto;
+   
+    justify-content: center;
+    padding: 40px 0px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 40px;
+    
+}
+.fourth-img{
+    width: 300px;
+    
+}
+.fourth-left{
+    width: 50%;
+    margin-left: 40px;
+    padding-top: 50px;
+
+}
+.fourth-header{
+    margin-bottom: 10px;
+}
+.fourth-paragraph{
+    margin-bottom: 10px;
 }
